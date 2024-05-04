@@ -87,7 +87,7 @@ soupsieve==2.2.1
 sqlparse==0.4.1
 tablib==3.0.0
 telepath==0.2
-tqdm==4.60.0
+tqdm==4.66.3
 Twisted==21.2.0
 txaio==21.2.1
 Unidecode==1.2.0
