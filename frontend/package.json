@@ -59,7 +59,7 @@
     "@riophae/vue-treeselect": "0.4.0",
     "@toast-ui/editor": "3.2.1",
     "axios": "1.1.3",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "bootstrap-icons": "1.9.1",
     "chartist": "0.11.4",
     "chartist-plugin-fill-donut": "0.1.4",
