@@ -64,7 +64,7 @@ keyring==23.0.1
 l18n==2020.6.1
 lxml==4.6.3
 Markdown==3.2.2
-markdownify==0.9.0
+markdownify==0.14.1
 msgpack==1.0.2
 openpyxl==3.0.7
 packaging==20.9
