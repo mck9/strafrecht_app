@@ -84,14 +84,14 @@ service-identity==18.1.0
 six==1.15.0
 sorl-thumbnail==12.7.0
 soupsieve==2.2.1
-sqlparse==0.4.1
+sqlparse==0.5.4
 tablib==3.0.0
 telepath==0.2
 tqdm==4.60.0
 Twisted==21.2.0
 txaio==21.2.1
 Unidecode==1.2.0
-urllib3==1.26.4
+urllib3==2.6.0
 wagtail==2.13
 wagtail-autocomplete==0.6.3
 wagtail-color-panel==1.2.0
